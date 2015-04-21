@@ -13,6 +13,7 @@
 		D7E956831AE5EE8B00E08F65 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D7E956821AE5EE8B00E08F65 /* Images.xcassets */; };
 		D7E956861AE5EE8B00E08F65 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D7E956841AE5EE8B00E08F65 /* LaunchScreen.xib */; };
 		D7E956921AE5EE8C00E08F65 /* tatot_vnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E956911AE5EE8C00E08F65 /* tatot_vnTests.swift */; };
+		D7E9569C1AE5F15800E08F65 /* ListCardTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D7E9569B1AE5F15800E08F65 /* ListCardTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		D7E9568B1AE5EE8C00E08F65 /* tatot_vnTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tatot_vnTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7E956901AE5EE8C00E08F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D7E956911AE5EE8C00E08F65 /* tatot_vnTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tatot_vnTests.swift; sourceTree = "<group>"; };
+		D7E9569B1AE5F15800E08F65 /* ListCardTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListCardTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				D7E956821AE5EE8B00E08F65 /* Images.xcassets */,
 				D7E956841AE5EE8B00E08F65 /* LaunchScreen.xib */,
 				D7E956791AE5EE8B00E08F65 /* Supporting Files */,
+				D7E9569B1AE5F15800E08F65 /* ListCardTableViewController.swift */,
 			);
 			path = tatot_vn;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7E9567E1AE5EE8B00E08F65 /* ViewController.swift in Sources */,
+				D7E9569C1AE5F15800E08F65 /* ListCardTableViewController.swift in Sources */,
 				D7E9567C1AE5EE8B00E08F65 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
